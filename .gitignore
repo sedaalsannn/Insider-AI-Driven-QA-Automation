@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg
+*.egg-info/
+
+# Virtual env
+.venv/
+venv/
+env/
+ENV/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# Pytest / Test artifacts
+.pytest_cache/
+reports/
+allure-results/
+allure-report/
+
+# Logs
+*.log
+
+# Coverage
+.coverage
+htmlcov/
+
+# dotenv
+.env
+
+# OS
+.DS_Store
+Thumbs.db
+Desktop.ini
+*.tmp
+
